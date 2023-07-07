@@ -37,3 +37,13 @@ body{
     padding: 1em;
     background: white;
 }
+
+#footer{
+    background:#7a0303;
+    color: white;
+    text-align: center;
+}
+
+#userfooter{
+    color: rgb(141, 141, 141);
+}
